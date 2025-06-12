@@ -1,0 +1,1 @@
+export default function ConversaSimulada() { return <div>Simulação de conversa com IA empática</div>; }

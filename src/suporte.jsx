@@ -1,0 +1,1 @@
+export default function Suporte() { return <div>Central de ajuda e suporte emocional</div>; }
